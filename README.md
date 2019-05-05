@@ -1,1 +1,3 @@
-# HandScrollGallery2
+# HandScrollGallery
+
+These images are used by other documents
